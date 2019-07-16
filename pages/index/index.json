@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "header": "../components/header/header"
+  },
+  "backgroundColorTop": "#00C66B",
+  "backgroundColorBottom": "#ffffff",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom"
+}
